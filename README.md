@@ -3,19 +3,26 @@
 
 ### Portfólio de Produção Científica
 
-Bem-vindo(a) ao repositório de minhas publicações científicas!
+Bem-vindo(a) ao repositório de publicações científicas sobre Computação Aproximada!
 
-Este espaço reúne os trabalhos desenvolvidos ao longo da minha trajetória acadêmica, incluindo artigos publicados em periódicos e eventos científicos. O objetivo é disponibilizar um catálogo organizado das pesquisas, facilitando o acesso às publicações, aos seus respectivos autores e às contribuições científicas.
+Este espaço reúne os trabalhos desenvolvidos ao longo da minha trajetória acadêmica, incluindo artigos publicados em periódicos e eventos científicos. Conta também com artigos desenvolvidos por alunos de Iniciação Científica sobre minha orientação, e artigos com minha coautoria.
+
+O objetivo é disponibilizar um catálogo organizado das pesquisas, facilitando o acesso às publicações, aos seus respectivos autores e às contribuições científicas.
 
 ---
 
 ## 👩‍🔬 Áreas de Pesquisa
 
-- Computação Aproximada (*Approximate Computing*);
+- Computação Aproximada (*Approximate Computing* - CA);
 - Arquitetura de Computadores;
 - Arquitetura do Conjunto de Instruções RISC-V;
 - Circuitos Aritméticos Aproximados;
-- Sistemas Embarcados;
+- Instruções Aritméticas Aproximada;
+- Instruções Aritméticas Aproximadas do tipo Mistas;
+- CA com Softcore NEORV32;
+- CA com Regressão Linear;
+- CA no simulador GEM5X;
+- CA no simulador SPIKEX;
 - Eficiência Energética em Sistemas Computacionais.
 
 ---
@@ -24,19 +31,19 @@ Este espaço reúne os trabalhos desenvolvidos ao longo da minha trajetória aca
 
 As publicações estão organizadas em ordem cronológica decrescente, das mais recentes às mais antigas.
 
-<!-- MODELO PARA CADASTRAR CADA ARTIGO
+### 📄 Evaluation and characterization of approximate arithmetic circuits
 
-### 📄 Título do artigo
+O artigo avalia diferentes projetos de circuitos aritméticos aproximados, investigando o compromisso entre precisão dos resultados e eficiência física em termos de área e dissipação de potência. Também apresenta novas arquiteturas de organização mista para circuitos aproximados.
 
-**Resumo:** Breve descrição do problema investigado, da abordagem utilizada e das principais contribuições do trabalho.
+**Autores:** Daniela Catelan, Liana Duenha e Ricardo Santos.
 
-**Autores:** Nome do Autor 1, Nome do Autor 2 e Nome do Autor 3.
+**Publicado em:** Concurrency and Computation: Practice and Experience, v. 35, n. 17, 2023.
 
-**Publicado em:** Nome do evento ou periódico (Ano).
+**DOI:** [10.1002/cpe.6865](https://doi.org/10.1002/cpe.6865)
 
-**DOI:** [10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx)
+**Acesso:** [Artigo na Wiley](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.6865)
 
-**Acesso:** [📄 Artigo completo (PDF)](LINK_PDF) | [🔗 Página da publicação](LINK_PUBLICACAO)
+---
 
 ---
 -->
