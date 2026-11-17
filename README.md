@@ -155,8 +155,8 @@ O trabalho apresenta uma avaliação da precisão e das características física
 | Plataforma | Perfil |
 |:---|:---|
 | Google Scholar | [Acessar perfil](https://scholar.google.com.br/citations?user=N9NTEO0AAAAJ&hl=pt-BR) |
-| Currículo Lattes | [Acessar currículo](https://lattes.cnpq.br/) |
-| ORCID | [Acessar perfil](https://orcid.org/) |
+| Currículo Lattes | [Acessar currículo](http://lattes.cnpq.br/8023085642019600) |
+| ORCID | [Acessar perfil](https://orcid.org/0000-0001-7776-2327) |
 
 ---
 
