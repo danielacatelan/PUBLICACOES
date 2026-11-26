@@ -42,7 +42,7 @@ O trabalho apresenta a implementação e a avaliação microarquitetural de inst
 
 **Publicado em:** Workshop de Iniciação Científica do XXVII Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2026), p. 67–76.
 
-**DOI:** [10.5753/sscad_estendido.2026.34901](https://doi.org/10.5753/sscad_estendido.2026.34901)
+**DOI:** [10.5753/sscad_estendido.2026.34901](https://sol.sbc.org.br/index.php/sscad_estendido/article/view/47894)
 
 #### 📄 Computação Aproximada Aplicada ao Treinamento de Modelos de Regressão
 
@@ -52,7 +52,7 @@ O trabalho investiga a aplicação de Computação Aproximada em nível de instr
 
 **Publicado em:** Workshop de Iniciação Científica do XXVII Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2026), p. 77–86.
 
-**DOI:** [10.5753/sscad_estendido.2026.34887](https://doi.org/10.5753/sscad_estendido.2026.34887)
+**DOI:** [10.5753/sscad_estendido.2026.34887](https://sol.sbc.org.br/index.php/sscad_estendido/article/view/47895)
 
 #### 📄 Avaliação de Síntese Física e Energética de Instruções Aproximadas no Processador RISC-V NEORV32
 
@@ -62,7 +62,7 @@ O trabalho avalia a síntese física e o comportamento energético de instruçõ
 
 **Publicado em:** Workshop de Processamento de Alto Desempenho Sustentável do XXVII Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2026), p. 171–179.
 
-**DOI:** [10.5753/sscad_estendido.2026.36814](https://doi.org/10.5753/sscad_estendido.2026.36814)
+**DOI:** [10.5753/sscad_estendido.2026.36814](https://sol.sbc.org.br/index.php/sscad_estendido/article/view/47905)
 
 #### 📄 Machine Learning-Guided Design Space Exploration for Instruction-Level Approximate Computing
 
