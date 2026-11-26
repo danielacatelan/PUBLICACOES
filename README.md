@@ -34,6 +34,36 @@ As publicações estão organizadas em ordem cronológica decrescente, das mais 
 
 ### 📅 2026
 
+#### 📄 Computação Aproximada em nível de instrução utilizando o simulador GEM5
+
+O trabalho apresenta a implementação e a avaliação microarquitetural de instruções aritméticas aproximadas na arquitetura RISC-V utilizando o simulador GEM5, com métricas de ciclo preciso. A proposta explora o espaço de projeto para identificar combinações de instruções aproximadas, analisando o compromisso entre desempenho, consumo de energia e precisão dos resultados.
+
+**Autores:** Hytalo Bassi, Pedro e Silva, Jailton Nunes Filho, Eduardo Paes, Ricardo Santos e Daniela Catelan.
+
+**Publicado em:** Workshop de Iniciação Científica do XXVII Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2026), p. 67–76.
+
+**DOI:** [10.5753/sscad_estendido.2026.34901](https://doi.org/10.5753/sscad_estendido.2026.34901)
+
+#### 📄 Computação Aproximada Aplicada ao Treinamento de Modelos de Regressão
+
+O trabalho investiga a aplicação de Computação Aproximada em nível de instrução no treinamento de modelos de regressão por meio de otimização baseada em gradiente na arquitetura RISC-V. São avaliados os impactos das instruções aproximadas no número de instruções executadas, no consumo de energia e na precisão dos resultados.
+
+**Autores:** Pedro e Silva, Hytalo Bassi, Jailton Nunes Filho, Eduardo Paes, Ricardo Santos e Daniela Catelan.
+
+**Publicado em:** Workshop de Iniciação Científica do XXVII Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2026), p. 77–86.
+
+**DOI:** [10.5753/sscad_estendido.2026.34887](https://doi.org/10.5753/sscad_estendido.2026.34887)
+
+#### 📄 Avaliação de Síntese Física e Energética de Instruções Aproximadas no Processador RISC-V NEORV32
+
+O trabalho avalia a síntese física e o comportamento energético de instruções aproximadas incorporadas ao processador RISC-V NEORV32. A proposta analisa os impactos dessas instruções na implementação em hardware, considerando o uso de recursos e o consumo de energia.
+
+**Autores:** Jailton Nunes Filho, Eduardo Paes, Hytalo Bassi, Pedro e Silva, Daniela Catelan, Diogo Mantovani e Ricardo Santos.
+
+**Publicado em:** Workshop de Processamento de Alto Desempenho Sustentável do XXVII Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2026), p. 171–179.
+
+**DOI:** [10.5753/sscad_estendido.2026.36814](https://doi.org/10.5753/sscad_estendido.2026.36814)
+
 #### 📄 Machine Learning-Guided Design Space Exploration for Instruction-Level Approximate Computing
 
 O trabalho apresenta uma abordagem guiada por aprendizado de máquina para explorar o espaço de projeto da Computação Aproximada em nível de instrução. A proposta busca identificar combinações de instruções aproximadas que proporcionem economia de energia e desempenho, respeitando os limites de precisão definidos para as aplicações.
@@ -157,6 +187,17 @@ O trabalho apresenta uma avaliação da precisão e das características física
 | Google Scholar | [Acessar perfil](https://scholar.google.com.br/citations?user=N9NTEO0AAAAJ&hl=pt-BR) |
 | Currículo Lattes | [Acessar currículo](http://lattes.cnpq.br/8023085642019600) |
 | ORCID | [Acessar perfil](https://orcid.org/0000-0001-7776-2327) |
+| LinkedIn | [Acessar perfil](https://www.linkedin.com/in/daniela-luiza-catelan-3963b1323/) |
+
+---
+
+## 👨‍🎓 Alunos de Iniciação Científica
+
+| Aluno | Curso | Período |
+|:---|:---|:---|
+| Pedro e Silva | Engenharia da Computação | 2025–2026 |
+| Hytalo Bassi | Engenharia da Computação | 2025–2026 |
+| Jailton Nunes Filho | Engenharia da Computação | 2025–2026 |
 
 ---
 
