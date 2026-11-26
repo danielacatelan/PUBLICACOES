@@ -31,7 +31,7 @@ O objetivo é disponibilizar um catálogo organizado das pesquisas, facilitando 
 ## 📖 Publicações
 
 As publicações estão organizadas em ordem cronológica decrescente, das mais recentes às mais antigas.
-
+---
 ### 📅 2026
 
 #### 📄 Computação Aproximada em nível de instrução utilizando o simulador GEM5
@@ -103,7 +103,7 @@ O trabalho apresenta o GEM5X, uma extensão do simulador GEM5 para permitir a av
 **Publicado em:** Escola Regional de Alto Desempenho do Centro-Oeste (ERAD-CO 2026).
 
 **DOI:** [10.5753/eradco.2026.34360](https://doi.org/10.5753/eradco.2026.34360)
-
+---
 ### 📅 2025
 
 #### 📄 Heuristics for Energy-Efficient Instruction-Level Approximate Computing
@@ -123,7 +123,7 @@ Tese de doutorado que apresenta contribuições para a Computação Aproximada, 
 **Publicado em:** Tese de Doutorado em Ciências da Computação, Universidade Federal de Mato Grosso do Sul (UFMS), 2025.
 
 **Acesso:** [Repositório Institucional da UFMS](https://repositorio.ufms.br/handle/123456789/11109)
-
+---
 ### 📅 2024
 
 #### 📄 An Instruction-Set Extension to Support Approximate Multicore Processors
@@ -135,7 +135,7 @@ O trabalho apresenta uma extensão do conjunto de instruções para dar suporte 
 **Publicado em:** International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW 2024), p. 23–32.
 
 **DOI:** [10.1109/SBAC-PADW64858.2024.00015](https://doi.org/10.1109/SBAC-PADW64858.2024.00015)
-
+---
 ### 📅 2023
 
 #### 📄 Instruction-Level Loop Perforation
@@ -147,7 +147,7 @@ O artigo apresenta uma abordagem de Loop Perforation em nível de instrução (I
 **Publicado em:** XXIV Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2023), p. 37–48.
 
 **DOI:** [10.5753/wscad.2023.235929](https://doi.org/10.5753/wscad.2023.235929)
-
+---
 ### 📅 2022
 
 #### 📄 Evaluation and Characterization of Approximate Arithmetic Circuits
@@ -161,7 +161,7 @@ O artigo avalia diferentes projetos de circuitos aritméticos aproximados, inves
 **DOI:** [10.1002/cpe.6865](https://doi.org/10.1002/cpe.6865)
 
 **Acesso:** [Artigo na Wiley](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.6865)
-
+---
 ### 📅 2020
 
 #### 📄 Accuracy and Physical Characterization of Approximate Arithmetic Circuits
@@ -174,11 +174,9 @@ O trabalho apresenta uma avaliação da precisão e das características física
 
 **DOI:** [10.5753/wscad.2020.14065](https://doi.org/10.5753/wscad.2020.14065)
 
-
 ---
 
 ---
--->
 
 ## 🎓 Perfis Acadêmicos
 
@@ -193,11 +191,13 @@ O trabalho apresenta uma avaliação da precisão e das características física
 
 ## 👨‍🎓 Alunos de Iniciação Científica
 
-| Aluno | Curso | Período |
-|:---|:---|:---|
-| Pedro e Silva | Engenharia da Computação | 2025–2026 |
-| Hytalo Bassi | Engenharia da Computação | 2025–2026 |
-| Jailton Nunes Filho | Engenharia da Computação | 2025–2026 |
+| Aluno | Curso | Área de Pesquisa | Período |
+|:---|:---|:---|:---|
+| Pedro e Silva | Engenharia da Computação | CA com Regressão Linear | 2025–2026 |
+| Hytalo Bassi | Engenharia da Computação | CA no Simulador GEM5 | 2025–2026 |
+| Jailton Nunes Filho | Engenharia da Computação | CA com Softcore NEORV32 | 2025–2026 |
+
+---
 
 ---
 
